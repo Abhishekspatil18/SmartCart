@@ -49,6 +49,3 @@ pip install -r requirements.txt
 
 ## Expected Outcome
 The analysis groups customers into segments based on their characteristics and spending patterns, helping explore customer behavior and potential marketing strategies.
-
-## Disclaimer
-This project is intended for educational and analytical purposes. Cluster assignments are exploratory and should be validated before business use.
